@@ -6,4 +6,4 @@ export default function Home() {
       <button>Натисни мене</button>
     </main>
   );
-}
+}  
